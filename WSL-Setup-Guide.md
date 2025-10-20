@@ -23,3 +23,7 @@ Open **PowerShell (Run as Administrator)** and run:
 
 ```powershell
 wsl --install
+```
+
+---
+
