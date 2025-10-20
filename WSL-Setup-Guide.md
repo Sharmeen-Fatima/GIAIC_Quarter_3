@@ -101,7 +101,7 @@ print("Hello from WSL, Sharmeen!")
 ```
 python3 hello.py
 ```
-Output:
+Output will be:
 ```
 Hello from WSL, Sharmeen!
 ```
@@ -111,4 +111,14 @@ sudo apt install python3 -y
 ```
 
 ---
+## Useful Commands
 
+| Command               | Description                                 |
+| --------------------- | ------------------------------------------- |
+| `ls -la`              | List files                                  |
+| `pwd`                 | Show current directory                      |
+| `cd foldername`       | Change directory                            |
+| `mkdir name`          | Create folder                               |
+| `rm filename`         | Delete file                                 |
+| `clear` or `Ctrl + L` | Clear terminal                              |
+| `explorer.exe .`      | Open current WSL folder in Windows Explorer |
