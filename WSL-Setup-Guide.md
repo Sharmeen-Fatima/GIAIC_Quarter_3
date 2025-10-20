@@ -18,7 +18,7 @@ Just follow the steps in order — copy & paste the commands where shown.
 
 ---
 
-## Step 1 — Install WSL (Ubuntu) 📝
+## 📝Step 1 — Install WSL (Ubuntu) 
 Open **PowerShell (Run as Administrator)** and run:
 
 ```powershell
@@ -27,7 +27,7 @@ wsl --install
 
 ---
 
-## Step 2 — Setup Ubuntu user ✨
+## ✨ Step 2 — Setup Ubuntu user
 1. Open **Start Menu → Ubuntu**
 2. Wait for installation to finish.
 3. When asked:
@@ -39,7 +39,7 @@ sharmeen@DESKTOP-XXXX:~$
 ```
 ---
 
-## Step 3 — Update the system 🧰
+## 🧰 Step 3 — Update the system
 Run these commands inside Ubuntu terminal:
 ```
 sudo apt update && sudo apt upgrade -y
@@ -48,7 +48,7 @@ Wait for it to finish (this updates your Linux system).
 
 ---
 
-## Step 4 — Install Git 🌱
+## 🌱 Step 4 — Install Git
 Check if Git exists:
 ```
 git --version
