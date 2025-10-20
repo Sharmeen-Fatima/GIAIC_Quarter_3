@@ -1,4 +1,5 @@
-# 🐧 WSL + Ubuntu + VS Code — Step-by-Step Setup Guide
+# # 🐧 WSL Setup Guide for Windows 08 Users
+## 🐧 WSL + Ubuntu + VS Code — Step-by-Step Setup Guide
 
 > **Note:** This guide skips BIOS virtualization steps.  
 > If you see an error like `0x80370102`, enable **Virtual Machine Platform** in Windows Features and ensure virtualization is turned on in BIOS.
