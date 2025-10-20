@@ -80,7 +80,7 @@ git config --list
 2. Search: WSL (Publisher: Microsoft)
 3. Install it — description should say:
 
-***“Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.”***
+   ***“Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.”***
 
 ---
 ## 🌐 Step 7 — Connect VS Code with Ubuntu
