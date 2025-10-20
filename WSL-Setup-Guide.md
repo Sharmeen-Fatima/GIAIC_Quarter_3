@@ -27,3 +27,14 @@ wsl --install
 
 ---
 
+## Step 2 — Setup Ubuntu user
+1. Open **Start Menu → Ubuntu**
+2. Wait for installation to finish.
+3. When asked:
+    - Username: lowercase, no spaces (example: sharmeen)
+    - Password: 8–10+ characters (won’t show while typing)
+After setup, you’ll see a prompt like:
+```
+sharmeen@DESKTOP-XXXX:~$
+```
+---
