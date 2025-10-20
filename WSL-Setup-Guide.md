@@ -47,3 +47,24 @@ sudo apt update && sudo apt upgrade -y
 Wait for it to finish (this updates your Linux system).
 
 ---
+
+## Step 4 — Install Git 🌱
+Check if Git exists:
+```
+git --version
+```
+If not installed:
+```
+sudo apt install git -y
+```
+Then configure it with your GitHub name and email:
+```
+git config --global user.name "Sharmeen Fatima"
+git config --global user.email "sharmeenfatima67@gmail.com"
+```
+Check configuration:
+```
+git config --list
+```
+
+---
