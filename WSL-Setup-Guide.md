@@ -18,9 +18,8 @@ Just follow the steps in order — copy & paste the commands where shown.
 
 ---
 
-## 🪄 Step 1 — Install WSL (Ubuntu)
+## Step 1 — Install WSL (Ubuntu) 📝
 Open **PowerShell (Run as Administrator)** and run:
 
 ```powershell
 wsl --install
-
