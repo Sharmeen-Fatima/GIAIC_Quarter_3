@@ -137,3 +137,7 @@ sudo apt install python3 -y
 ### 💚 Congratulations!
 You’ve set up a complete developer environment using WSL + Ubuntu + VS Code — just like professionals use!
 
+---
+✨ Created by [Sharmeen Fatima](https://github.com/sharmeen-fatima).
+
+
