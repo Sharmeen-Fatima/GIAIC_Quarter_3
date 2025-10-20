@@ -91,7 +91,7 @@ git config --list
 
 ## 🧪 Step 8 — Test your setup
 **✅ Python Test**
-1. Create a file hello.py
+1. Create a file <code>hello.py</code>
 2. Add this code:
 ```
 print("Hello from WSL, Sharmeen!")
