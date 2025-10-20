@@ -38,3 +38,12 @@ After setup, you’ll see a prompt like:
 sharmeen@DESKTOP-XXXX:~$
 ```
 ---
+
+## Step 3 — Update the system 🧰
+Run these commands inside Ubuntu terminal:
+```
+sudo apt update && sudo apt upgrade -y
+```
+Wait for it to finish (this updates your Linux system).
+
+---
