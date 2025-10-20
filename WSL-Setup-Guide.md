@@ -68,3 +68,9 @@ git config --list
 ```
 
 ---
+## 💻 Step 5 — Install Visual Studio Code
+1. Install VS Code from the official site if not already installed.
+2. Open VS Code in Windows.
+
+---
+
