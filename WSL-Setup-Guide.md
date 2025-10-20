@@ -122,3 +122,14 @@ sudo apt install python3 -y
 | `rm filename`         | Delete file                                 |
 | `clear` or `Ctrl + L` | Clear terminal                              |
 | `explorer.exe .`      | Open current WSL folder in Windows Explorer |
+
+---
+
+## ⚡ Common Issues
+
+- Error 0x80370102: Enable Virtual Machine Platform in Windows features.
+- Git not found: Run sudo apt install git -y
+- Python not found: Run sudo apt install python3 -y
+- Ubuntu not showing in VS Code: Run wsl -l -v in PowerShell to check WSL status.
+
+---
