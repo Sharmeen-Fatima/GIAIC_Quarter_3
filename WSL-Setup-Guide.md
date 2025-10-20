@@ -136,6 +136,7 @@ sudo apt install python3 -y
 ---
 
 ### 💚 Congratulations!
+✅ Now your WSL + Ubuntu + VS Code setup is complete!
 You’ve set up a complete developer environment using WSL + Ubuntu + VS Code — just like professionals use!
 
 ---
