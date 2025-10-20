@@ -86,3 +86,29 @@ git config --list
 2. Choose Connect to WSL → Ubuntu
 3. VS Code will open a new window with status:
    **💚 WSL: Ubuntu**
+
+---
+
+## 🧪 Step 8 — Test your setup
+**✅ Python Test**
+1. Create a file hello.py
+2. Add this code:
+```
+print("Hello from WSL, Sharmeen!")
+```
+3. Save <code>(Ctrl + S)</code>
+4. Run in terminal:
+```
+python3 hello.py
+```
+Output:
+```
+Hello from WSL, Sharmeen!
+```
+If Python is missing:
+```
+sudo apt install python3 -y
+```
+
+---
+
