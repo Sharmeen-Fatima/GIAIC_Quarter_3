@@ -71,6 +71,21 @@ We use Ubuntu because it's stable, easy to use, and good for beginners and profe
 
 **Example:**
 You can install Ubuntu in WSL to practice Linux commands and build projects.
+
+
+---
+***✨ Created by [Sharmeen Fatima](https://github.com/sharmeen-fatima).***
+
+- **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
+- ***✒ For more information about Agentic Ai and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+
+***“Learning never stops — stay curious, stay creative!”***
+
+
+***☺️STAY HERE, STAY CONNECTED✨***
+
+
 <!--
 ---
 
@@ -87,3 +102,5 @@ You can install Ubuntu in WSL to practice Linux commands and build projects.
 
 ---
 --!>
+
+
