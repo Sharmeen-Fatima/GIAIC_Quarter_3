@@ -1,7 +1,7 @@
 ## You will find important and frequently asked questions and their answers in this repository.
 
 
-### ❓1. What is Linux?
+### 1. What is Linux❓
 
 **Answer:**
 Linux is a free and open-source operating system, like Windows or macOS.
@@ -13,7 +13,7 @@ Developers use Linux to build servers, websites, or run code securely.
 
 ---
 
-### ❓2. What is WSL in Windows?
+### 2. What is WSL in Windows❓
 
 **Answer:**
 WSL (Windows Subsystem for Linux) allows you to run Linux directly inside Windows without installing a separate system.
@@ -26,7 +26,7 @@ You can use Ubuntu or Kali Linux inside Windows using WSL for coding or hacking 
 
 ---
 
-### ❓3. Why do we use Linux and WSL?
+### 3. Why do we use Linux and WSL❓
 
 **Answer:**
 We use Linux for programming, security testing, and server management.
@@ -39,7 +39,7 @@ A developer can use Python in WSL without leaving Windows.
 
 ---
 
-### ❓4. What is the difference between Kali Linux and Linux in WSL?
+### 4. What is the difference between Kali Linux and Linux in WSL❓
 
 **Answer:**
 Kali Linux is a Linux distribution focused on ethical hacking and penetration testing.
@@ -52,7 +52,7 @@ Kali is full of hacking tools. Ubuntu in WSL is used for development.
 
 ---
 
-### ❓5. What is Ubuntu?
+### 5. What is Ubuntu❓
 
 **Answer:**
 Ubuntu is a popular and user-friendly Linux distribution based on Debian.
@@ -64,7 +64,7 @@ Many developers use Ubuntu for web development, testing, or learning Linux.
 
 ---
 
-### ❓6. Why do we use Ubuntu?
+### 6. Why do we use Ubuntu❓
 
 **Answer:**
 We use Ubuntu because it's stable, easy to use, and good for beginners and professionals.
